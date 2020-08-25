@@ -1,30 +1,34 @@
 # hexo-renderer-rollup
 
-[![Build Status](https://travis-ci.org/hexojs/hexo-generator-tag.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-tag)
-[![NPM version](https://badge.fury.io/js/hexo-generator-tag.svg)](https://www.npmjs.com/package/hexo-generator-tag)
-[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-tag.svg)](https://coveralls.io/r/hexojs/hexo-generator-tag?branch=master)
+[![npm][npm-image]][npm-url]
+[![build][build-image]][build-url]
+[![license][license-image]][license-url]
 
-Tag generator for [Hexo].
+Rollup renderer plugin for Hexo.
 
 ## Installation
 
-``` bash
-$ npm install hexo-generator-tag --save
-```
+`$ npm i hexo-renderer-rollup`
 
 ## Options
 
-``` yaml
-tag_generator:
-  per_page: 10
-  order_by: -date
-```
+You can configure this plugin in `_config.yml`.
 
-- **per_page**: Posts displayed per page. (0 = disable pagination)
-- **order_by**: Posts order. (Order by date descending by default)
+```yaml
+rollup:
+  output:
+    format: iife
+```
 
 ## License
 
-MIT
+[MIT][license-url] © AkiJoey
 
-[Hexo]: http://hexo.io/
+[npm-image]: https://img.shields.io/npm/v/hexo-renderer-rollup
+[npm-url]: https://www.npmjs.com/package/hexo-renderer-rollup
+
+[build-image]: https://www.travis-ci.org/akijoey/hexo-renderer-rollup.svg?branch=master
+[build-url]: https://www.travis-ci.org/akijoey/hexo-renderer-rollup
+
+[license-image]: https://img.shields.io/github/license/akijoey/hexo-renderer-rollup
+[license-url]: https://github.com/akijoey/hexo-renderer-rollup/blob/master/LICENSE
