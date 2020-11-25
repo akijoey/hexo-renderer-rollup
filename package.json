@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-rollup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Rollup renderer plugin for Hexo.",
   "main": "index.js",
   "files": [
