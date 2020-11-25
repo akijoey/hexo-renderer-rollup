@@ -26,9 +26,7 @@ rollup:
 
 [npm-image]: https://img.shields.io/npm/v/hexo-renderer-rollup
 [npm-url]: https://www.npmjs.com/package/hexo-renderer-rollup
-
 [build-image]: https://www.travis-ci.org/akijoey/hexo-renderer-rollup.svg?branch=master
 [build-url]: https://www.travis-ci.org/akijoey/hexo-renderer-rollup
-
 [license-image]: https://img.shields.io/github/license/akijoey/hexo-renderer-rollup
 [license-url]: https://github.com/akijoey/hexo-renderer-rollup/blob/master/LICENSE

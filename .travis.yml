@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: npm
   email: akijoey@akijoey.com
-  api_key: "$NPM_TOKEN"
+  api_key: '$NPM_TOKEN'
   on:
     branches: master
   skip_cleanup: true
