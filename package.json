@@ -23,7 +23,7 @@
     "hexo",
     "rollup"
   ],
-  "author": "AkiJoey",
+  "author": "AkiJoey <akijoey@akijoey.com> (https://akijoey.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/akijoey/hexo-renderer-rollup/issues"
