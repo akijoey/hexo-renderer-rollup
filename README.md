@@ -6,7 +6,7 @@
 
 Rollup renderer plugin for Hexo.
 
-## Installation
+## Install
 
 `$ npm i hexo-renderer-rollup`
 
