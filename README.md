@@ -20,6 +20,25 @@ rollup:
     format: iife
 ```
 
+## Extension
+
+This plugin provide a filter `rollup:renderer` to allows you extend the rollup configuration.
+
+For example, to use plugins:
+
+```javascript
+const { nodeResolve } = require('@rollup/plugin-node-resolve')
+const commonjs = require('@rollup/plugin-commonjs')
+
+hexo.extend.filter.register('rollup:renderer', function (config) {
+  config.plugins = [nodeResolve(), commonjs()]
+})
+```
+
+Save the file in `scripts/` folder.
+
+Refer to rollup [configuration](https://rollupjs.org/guide/en/#configuration-files).
+
 ## License
 
 [MIT][license-url] © AkiJoey
