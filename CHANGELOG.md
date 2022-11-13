@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/akijoey/hexo-renderer-rollup/compare/v1.1.0...v1.1.1) (2022-11-13)
+
+
+### Bug Fixes
+
+* filter usage ([4f7756d](https://github.com/akijoey/hexo-renderer-rollup/commit/4f7756d4ee501d9c8d0ad9b187ff14177596c49f))
+
 # [1.1.0](https://github.com/akijoey/hexo-renderer-rollup/compare/v1.0.0...v1.1.0) (2022-11-13)
 
 
