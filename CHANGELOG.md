@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/akijoey/hexo-renderer-rollup/compare/v1.0.0...v1.1.0) (2022-11-13)
+
+
+### Features
+
+* rollup filter ([5b74a36](https://github.com/akijoey/hexo-renderer-rollup/commit/5b74a361ef407b61b2833b18526c2dbd20c07e0d))
+
 # 1.0.0 (2022-09-12)
 
 
