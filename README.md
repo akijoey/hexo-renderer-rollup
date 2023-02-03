@@ -45,7 +45,7 @@ Refer to rollup [configuration](https://rollupjs.org/guide/en/#configuration-fil
 
 [npm-image]: https://img.shields.io/npm/v/hexo-renderer-rollup
 [npm-url]: https://www.npmjs.com/package/hexo-renderer-rollup
-[build-image]: https://img.shields.io/github/workflow/status/akijoey/hexo-renderer-rollup/Build
+[build-image]: https://img.shields.io/github/actions/workflow/status/akijoey/hexo-renderer-rollup/build.yml
 [build-url]: https://github.com/akijoey/hexo-renderer-rollup/actions/workflows/build.yml
 [license-image]: https://img.shields.io/github/license/akijoey/hexo-renderer-rollup
 [license-url]: https://github.com/akijoey/hexo-renderer-rollup/blob/main/LICENSE
