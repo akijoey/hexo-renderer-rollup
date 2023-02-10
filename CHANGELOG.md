@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/akijoey/hexo-renderer-rollup/compare/v1.1.1...v1.1.2) (2023-02-10)
+
+
+### Bug Fixes
+
+* maintain lockfile ([f3f0ceb](https://github.com/akijoey/hexo-renderer-rollup/commit/f3f0ceb2865c74decb0daefcfd9d7ce82ec6f56e))
+
 ## [1.1.1](https://github.com/akijoey/hexo-renderer-rollup/compare/v1.1.0...v1.1.1) (2022-11-13)
 
 
